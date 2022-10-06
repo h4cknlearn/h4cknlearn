@@ -2,7 +2,7 @@
 
 -----------------
 
-### 🔭 I’m currently working on:
+### 🔭 I’m currently working on
 - [ ] programming skills (developing a simple rootkit)
 - [ ] CTF challenges
 
@@ -12,5 +12,5 @@
 - [x] introduction to binary exploitation @ [hackthebox](https://academy.hackthebox.com/)
 - [x] low level programming (C and assembly)
 
-### 📫 How to reach me: 
+### 📫 How to reach me 
 - [Instagram](https://instagram.com/hacknlearn) | [Linkedin](https://linkedin.com/in/hacknlearn) | [Medium](https://medium.com/@hacknlearn)
