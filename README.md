@@ -12,5 +12,5 @@
 - [x] introduction to binary exploitation @ [hackthebox](https://academy.hackthebox.com/)
 - [x] low level programming (C and assembly)
 
-### 📫 How to reach me 
-- [Instagram](https://instagram.com/hacknlearn) | [Linkedin](https://linkedin.com/in/hacknlearn) | [Medium](https://medium.com/@hacknlearn)
+### 📫 Projects 
+- [0x00](https://h4cknlearn.github.io/portfolio/)
