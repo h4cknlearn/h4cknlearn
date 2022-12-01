@@ -8,6 +8,7 @@
 
 ### 🧠 I'm studying
 
+- [x] computer architecture
 - [x] reversing
 - [x] introduction to binary exploitation @ [hackthebox](https://academy.hackthebox.com/)
 - [x] low level programming (C and assembly)
