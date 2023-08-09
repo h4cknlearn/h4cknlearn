@@ -4,6 +4,7 @@
 
 ### 🔭 I’m currently working on
 - [ ] programming skills
+- [ ] math skills (yay)
 - [ ] low level club (project)
 
 ### 🧠 I'm studying
