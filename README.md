@@ -1,17 +1,16 @@
-### Hi, I'm a reverse engineering & programming student 👋
+### Hi, I'm an independent security researcher 👋
 
 -----------------
 
 ### 🔭 I’m currently working on
-- [ ] programming skills
-- [ ] math skills (yay)
+- [ ] low level programming
+- [ ] some cool CPU research (yay)
 - [ ] low level club (project)
 
-### 🧠 I'm studying
+### 🧠 I'm doing research on
 
-- [x] computer architecture
-- [x] low level programming (C and assembly)
-- [x] reverse engineering
+- [x] architectural bugs
+- [x] microarchitectural security (CPU exceptions and symbolic execution)
 
 ### 📫 Projects 
 - [0x00](https://h4cknlearn.github.io/portfolio/)
