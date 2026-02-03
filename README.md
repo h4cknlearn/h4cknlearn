@@ -3,14 +3,19 @@
 -----------------
 
 ### 🔭 I’m currently working on
-- [ ] low level programming
-- [ ] some cool CPU research (yay)
-- [ ] low level club (project)
+- [x] low level programming
+- [x] low level club (project)
 
 ### 🧠 I'm doing research on
 
-- [x] architectural bugs
-- [x] microarchitectural security (CPU exceptions and symbolic execution)
+- [x] OS internals
+- [x] hypervisors
+- [ ] microarchitectural security (CPU exceptions and symbolic execution)
+
+### 🚩hands-on
+- [x] pwn.college -> asm + software exploitation challenges
+- [x] stacksmash.io -> re and pwn challenges
+- [x] hypervisors -> currently developing my own hypervisor from scratch (for sw exploitation and reversing purposes)
 
 ### 📫 Projects 
 - [0x00](https://h4cknlearn.github.io/portfolio/)
