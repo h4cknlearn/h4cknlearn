@@ -4,7 +4,7 @@
 
 ### 🔭 I’m currently working on
 - [x] low level programming
-- [x] low level club (project)
+- [x] low level club (VR and low level security project)
 
 ### 🧠 I'm doing research on
 
