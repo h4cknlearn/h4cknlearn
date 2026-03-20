@@ -1,4 +1,4 @@
-### Hi, I'm an independent security researcher 👋
+### Hi, I'm a vulnerability researcher 👋
 
 -----------------
 
