@@ -10,12 +10,12 @@
 
 - [x] OS internals
 - [x] hypervisors
-- [ ] microarchitectural security (CPU exceptions and symbolic execution)
 
 ### 🚩hands-on
 - [x] pwn.college -> asm + software exploitation challenges
 - [x] stacksmash.io -> re and pwn challenges
 - [x] hypervisors -> currently developing my own hypervisor from scratch (for sw exploitation and reversing purposes)
+- [x] low level related tools for binary analysis and exploitation
 
 ### 📫 Projects 
 - [0x00](https://h4cknlearn.github.io/portfolio/)
