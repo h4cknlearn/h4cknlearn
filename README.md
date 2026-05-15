@@ -1,10 +1,11 @@
-### Hi, I'm a vulnerability researcher 👋
+### Hi, I'm a SWE engineering student👋
 
 -----------------
 
 ### 🔭 I’m currently working on
-- [x] low level programming
+- [x] systems programming
 - [x] low level club (VR and low level security project)
+- [x] DevOps project using: Docker, AWS, IaC (Terraform) 
 
 ### 🧠 I'm doing research on
 
@@ -12,10 +13,10 @@
 - [x] hypervisors
 
 ### 🚩hands-on
+- [x] sadservers -> linux troubleshooting 
 - [x] pwn.college -> asm + software exploitation challenges
 - [x] stacksmash.io -> re and pwn challenges
-- [x] hypervisors -> currently developing my own hypervisor from scratch (for sw exploitation and reversing purposes)
-- [x] low level related tools for binary analysis and exploitation
+- [x] hyperpwn -> currently developing my own hypervisor from scratch (for sw exploitation and reversing purposes)
 
 ### 📫 Projects 
 - [0x00](https://h4cknlearn.github.io/portfolio/)
