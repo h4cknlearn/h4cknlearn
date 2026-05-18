@@ -1,43 +1,28 @@
-### Hi, I'm a DevOps Engineer student👋
-Linux systems and software engineering student focused on cloud infrastructure, automation, and secure system operations.
+### Hi, I'm an exploit developer👋
+
+founder of Low\Level Club - a security community focused on VR and exploit development
 
 -----------------
 
 ### 🔭 I’m currently working on
-- [x] Building DevOps infrastructure projects using Docker, AWS, and Terraform (IaC)
-- [x] Developing hands-on experience with CI/CD and cloud deployment workflows
-- [x] Strengthening Linux systems knowledge through incident-based troubleshooting
-- [x] Applying DevSecOps principles to secure infrastructure and pipelines
+- [x] vSphere exploit development
+- [x] ptmalloc2 internals and exploitation
 
-### 🧠 Focus area
+### 🧠 I'm doing research on
 
-- [x] Cloud infrastructure (AWS)
-- [x] Infrastructure as Code (Terraform)
-- [x] Containerization (Docker)
-- [x] Linux systems and networking fundamentals
-- [x] Secure system operations (DevSecOps principles)
-
-### 🚩Hands-on experience
-**AWS Cloud (GFT Bootcamp)**
-- [x] Built and configured AWS environments using EC2, IAM, VPC, and S3
-- [x] Applied IAM least privilege security principles
-- [x] Practiced cloud networking and infrastructure design
-
-**Linux incident labs (sadservers)**
-- [x] Diagnosed and resolved Linux production-like system failures
-- [x] Performed root cause analysis using system logs and debugging tools
-- [x] Restored service availability under operational constraints
-
-### 🔬 Systems & research
 - [x] OS internals
-- [x] Hypervisor development
-- [x] Low-level systems programming
-- [x] Security and exploitation research (pwn challenges, reverse engineering)
+- [x] hypervisors
 
-###  🛠️ Projects 
-- [0x00](https://hacknlearn.notion.site/Como-estudar-aprender-engenharia-reversa-6882dff5ab1945de934cf751277f3c98)
-- [0x01](https://github.com/lowlevelclub)
-- [0x02](https://github.com/h4cknlearn/hyperpwn)
+### 🚩hands-on
+- [x] pwn.college -> asm + software exploitation challenges
+- [x] stacksmash.io -> re and pwn challenges
+- [x] hypervisors -> currently developing my own hypervisor from scratch (for sw exploitation and reversing purposes)
+- [x] low level related tools for binary analysis and exploitation
+
+### 🛠️ open projects 
+- [0x01](https://hacknlearn.notion.site/Como-estudar-aprender-engenharia-reversa-6882dff5ab1945de934cf751277f3c98)
+- [0x02](https://github.com/lowlevelclub)
+- [0x03](https://github.com/h4cknlearn/hyperpwn)
 
 ### 📫 Contact
 
