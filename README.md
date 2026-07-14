@@ -6,6 +6,7 @@ founder of Low\Level Club - a security community focused on VR and exploit devel
 
 ### 🔭 I’m currently working on
 - [x] vSphere exploit development
+- [x] KVM exploitation
 - [x] ptmalloc2 internals and exploitation
 
 ### 🧠 I'm doing research on
